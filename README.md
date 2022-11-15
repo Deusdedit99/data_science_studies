@@ -1,2 +1,3 @@
 # Data_science_studies
-Neste repositório você encontrará algumas manipulações com dados usando Python em notebooks(Google Colab ou Jupyter Notebook) que eu mesmo desenvolvi como forma de aprendizado para caso seja necessário fazer análises. 
+
+<p>O objetivo de criar esse repositório, foi para colocar meus códigos desenvolvidos na linguagem Python, o foco desse repositório é em Data Science, então uso bibliotecas voltadas para manipulação e visualização de dados. </p>
